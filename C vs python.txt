@@ -1,0 +1,11 @@
+C
+sort took 0.000132 seconds to execute
+
+Python
+
+sort took  0.0020956993103027344 seconds to execute
+
+0.0020957
+0.0001320
+
+python takes 15.8765 times longer 
